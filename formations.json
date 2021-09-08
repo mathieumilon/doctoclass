@@ -3,7 +3,7 @@
         "formation" : "rééducation et orthèses des douleurs de la main et du poignet",
         "discipline" : "Masseur-kinésithérapeutes",
         "numéro agrément" : 87912100029, 
-        "sessionsId" : [
+        "sessionIds" : [
             {
                 "janvier" : 211221,
                 "février" : 212122,
@@ -24,7 +24,7 @@
         "formation" : "actualiser ses pratiques cliniques du quotidien pour prendre en charge les troubles de l’équilibre des personnes âgées fragiles",
         "discipline" : "Masseur-kinésithérapeutes",
         "numéro agrément" : 87912100014,
-        "sessionsId" : [
+        "sessionIds" : [
             {
                 "janvier" : 221221,
                 "février" : 222122,
